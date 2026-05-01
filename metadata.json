@@ -1,0 +1,6 @@
+{
+  "name": "Sonic AI: Intelligent Equalizer",
+  "description": "Professional-grade parametric equalizer featuring on-device AI for real-time spectral adaptation. Includes a high-fidelity OLED visualizer, mirror spectrum mode, and precision 10-band EQ with dynamic reactive gain.",
+  "requestFramePermissions": ["microphone", "usb"],
+  "majorCapabilities": []
+}
